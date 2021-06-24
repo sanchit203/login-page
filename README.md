@@ -1,0 +1,1 @@
+This is the basic code for understanding how authentication works.
